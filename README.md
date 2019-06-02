@@ -1,6 +1,7 @@
 # Angular8MeanstackAngularMaterial
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.1.
+A test project to use Angular 8 in a MEAN stack environment.
 
 ## Development server
 
